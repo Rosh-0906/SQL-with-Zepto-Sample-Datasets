@@ -70,11 +70,10 @@ Zepto-SQL-Analysis/
 
 ## 📌 Conclusion
 This portfolio project demonstrates how practical SQL operations transform raw, unorganized e-commerce inventory rows into strategic business indicators. Through analytical workflows (data exploration, conditional value cleaning, stock checking, discount optimization, and revenue calculations), it provides a clear template for evaluating instant-delivery quick-commerce metrics.
-
----
 * **DQL Frameworks:** `SELECT`, `WHERE`, `ORDER BY`, `DISTINCT`
 * **Aggregation & Grouping:** `GROUP BY`, `HAVING`, `COUNT()`, `SUM()`, `AVG()`
 * **Conditional Logic Evaluators:** `CASE WHEN ... THEN ... ELSE` statements
 * **Data Cleaning & Mutation:** Target structural mutations using safe `UPDATE` logic
+---
 
-###⭐this repo or share it with someone learning SQL
+### ⭐this repo or share it with someone learning SQL
