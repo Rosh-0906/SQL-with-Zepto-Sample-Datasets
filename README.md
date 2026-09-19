@@ -1,1 +1,1 @@
-# SQL-Project-with-Zepto-Sample-Datasets
+# SQL-with-Zepto-Sample-Datasets
